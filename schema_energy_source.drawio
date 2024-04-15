@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T10:09:23.054Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" version="24.2.3" etag="1YK2cAQueGke55uPvObS" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T10:13:17.320Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 OPR/108.0.0.0" etag="9H2-GM4-S5UMWfEGb1oL" version="24.2.3" type="github">
   <diagram name="Page-1" id="4JFyEZYAPxhx2Ii9Rz9f">
-    <mxGraphModel>
+    <mxGraphModel dx="976" dy="710" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="w5NjTHn5YXQChvM36UkN-2" value="Power supply&lt;div&gt;5V&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5NjTHn5YXQChvM36UkN-3" value="Power supply&lt;div&gt;12V&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5NjTHn5YXQChvM36UkN-4" value="Power supply&lt;div&gt;24V&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w5NjTHn5YXQChvM36UkN-5" value="PLC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="80" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="w5NjTHn5YXQChvM36UkN-6" value="HMI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="w5NjTHn5YXQChvM36UkN-7" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="150" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5NjTHn5YXQChvM36UkN-8" value="Scale" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="230" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w5NjTHn5YXQChvM36UkN-9" value="Scale&lt;div&gt;amplifier&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="130" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
